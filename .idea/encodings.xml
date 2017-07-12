@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Automat-Biz-Facade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Automat-Biz-Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Automat-Biz-Web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Automat-Common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Automat-SYS-Facade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Automat-SYS-Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Automat-SYS-Web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Automat-Stock-Facade" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Automat-Stock-Service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Automat-Stock-Web" charset="UTF-8" />
+  </component>
+</project>

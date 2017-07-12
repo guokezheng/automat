@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Automat-Biz-Facade" />
+        <module name="Automat-Biz-Service" />
+        <module name="Automat-Biz-Web" />
+        <module name="Automat-Common" />
+        <module name="Automat-Stock-Facade" />
+        <module name="Automat-Stock-Service" />
+        <module name="Automat-Stock-Web" />
+        <module name="Automat-SYS-Facade" />
+        <module name="Automat-SYS-Service" />
+        <module name="Automat-SYS-Web" />
+        <module name="iBase4J-Biz-Facade" />
+        <module name="iBase4J-Biz-Service" />
+        <module name="iBase4J-Biz-Web" />
+        <module name="iBase4J-Common" />
+        <module name="iBase4J-SYS-Facade" />
+        <module name="iBase4J-SYS-Service" />
+        <module name="iBase4J-SYS-Web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Automat" target="1.5" />
+      <module name="Automat-Biz-Facade" target="1.8" />
+      <module name="Automat-Biz-Service" target="1.8" />
+      <module name="Automat-Biz-Web" target="1.8" />
+      <module name="Automat-Common" target="1.8" />
+      <module name="Automat-Stock-Facade" target="1.8" />
+      <module name="Automat-Stock-Service" target="1.8" />
+      <module name="Automat-Stock-Web" target="1.8" />
+      <module name="Automat-SYS-Facade" target="1.8" />
+      <module name="Automat-SYS-Service" target="1.8" />
+      <module name="Automat-SYS-Web" target="1.8" />
+      <module name="iBase4J" target="1.5" />
+      <module name="iBase4J-Biz-Facade" target="1.8" />
+      <module name="iBase4J-Biz-Service" target="1.8" />
+      <module name="iBase4J-Biz-Web" target="1.8" />
+      <module name="iBase4J-Common" target="1.8" />
+      <module name="iBase4J-SYS-Facade" target="1.8" />
+      <module name="iBase4J-SYS-Service" target="1.8" />
+      <module name="iBase4J-SYS-Web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

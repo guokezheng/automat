@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Automat-Stock-Service:war">
+    <output-path>$PROJECT_DIR$/Automat-Stock-Service/target</output-path>
+    <root id="archive" name="Automat-Stock-Service.war">
+      <element id="artifact" artifact-name="Automat-Stock-Service:war exploded" />
+    </root>
+  </artifact>
+</component>

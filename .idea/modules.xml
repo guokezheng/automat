@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Automat.iml" filepath="$PROJECT_DIR$/Automat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automat-Biz-Facade/Automat-Biz-Facade.iml" filepath="$PROJECT_DIR$/Automat-Biz-Facade/Automat-Biz-Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automat-Biz-Service/Automat-Biz-Service.iml" filepath="$PROJECT_DIR$/Automat-Biz-Service/Automat-Biz-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automat-Biz-Web/Automat-Biz-Web.iml" filepath="$PROJECT_DIR$/Automat-Biz-Web/Automat-Biz-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automat-Common/Automat-Common.iml" filepath="$PROJECT_DIR$/Automat-Common/Automat-Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automat-SYS-Facade/Automat-SYS-Facade.iml" filepath="$PROJECT_DIR$/Automat-SYS-Facade/Automat-SYS-Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automat-SYS-Service/Automat-SYS-Service.iml" filepath="$PROJECT_DIR$/Automat-SYS-Service/Automat-SYS-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automat-SYS-Web/Automat-SYS-Web.iml" filepath="$PROJECT_DIR$/Automat-SYS-Web/Automat-SYS-Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automat-Stock-Facade/Automat-Stock-Facade.iml" filepath="$PROJECT_DIR$/Automat-Stock-Facade/Automat-Stock-Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automat-Stock-Service/Automat-Stock-Service.iml" filepath="$PROJECT_DIR$/Automat-Stock-Service/Automat-Stock-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Automat-Stock-Web/Automat-Stock-Web.iml" filepath="$PROJECT_DIR$/Automat-Stock-Web/Automat-Stock-Web.iml" />
+      <module fileurl="file://D:\idea_workspace\server\iBase4J\Automat-Biz-Facade\iBase4J-Biz-Facade.iml" filepath="D:\idea_workspace\server\iBase4J\Automat-Biz-Facade\iBase4J-Biz-Facade.iml" />
+      <module fileurl="file://D:\idea_workspace\server\iBase4J\Automat-Biz-Service\iBase4J-Biz-Service.iml" filepath="D:\idea_workspace\server\iBase4J\Automat-Biz-Service\iBase4J-Biz-Service.iml" />
+      <module fileurl="file://D:\idea_workspace\server\iBase4J\Automat-Biz-Web\iBase4J-Biz-Web.iml" filepath="D:\idea_workspace\server\iBase4J\Automat-Biz-Web\iBase4J-Biz-Web.iml" />
+      <module fileurl="file://D:\idea_workspace\server\iBase4J\Automat-Common\iBase4J-Common.iml" filepath="D:\idea_workspace\server\iBase4J\Automat-Common\iBase4J-Common.iml" />
+      <module fileurl="file://D:\idea_workspace\server\iBase4J\Automat-SYS-Facade\iBase4J-SYS-Facade.iml" filepath="D:\idea_workspace\server\iBase4J\Automat-SYS-Facade\iBase4J-SYS-Facade.iml" />
+      <module fileurl="file://D:\idea_workspace\server\iBase4J\Automat-SYS-Service\iBase4J-SYS-Service.iml" filepath="D:\idea_workspace\server\iBase4J\Automat-SYS-Service\iBase4J-SYS-Service.iml" />
+      <module fileurl="file://D:\idea_workspace\server\iBase4J\Automat-SYS-Web\iBase4J-SYS-Web.iml" filepath="D:\idea_workspace\server\iBase4J\Automat-SYS-Web\iBase4J-SYS-Web.iml" />
+    </modules>
+  </component>
+</project>

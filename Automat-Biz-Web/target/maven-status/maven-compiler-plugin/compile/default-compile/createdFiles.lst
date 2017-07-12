@@ -1,0 +1,3 @@
+sz\automat\core\config\SwaggerConfig.class
+sz\automat\web\LoginController.class
+sz\automat\core\shiro\Realm.class

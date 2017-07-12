@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Automat-SYS-Web:war">
+    <output-path>$PROJECT_DIR$/Automat-SYS-Web/target</output-path>
+    <root id="archive" name="Automat-SYS-Web.war">
+      <element id="artifact" artifact-name="Automat-SYS-Web:war exploded" />
+    </root>
+  </artifact>
+</component>
